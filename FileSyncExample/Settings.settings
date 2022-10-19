@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileSyncExample" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CachePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.\data\cache</Value>
+    </Setting>
+    <Setting Name="CompletedPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.\data\completed</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
